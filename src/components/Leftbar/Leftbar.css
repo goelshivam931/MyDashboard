@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #191c24;
+    width: 35px;
+    margin: 0px 0px;
+    border-radius: 5px;
+}
+
+.martop{
+    color: azure;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 2px;
+}
+
+
+.mar {
+    margin: 15px 5px;
+    color: azure;
+    cursor: pointer;
+}
+
+.mars {
+    margin: 250px 5px 10px 5px;
+    cursor: pointer;
+    color: azure;
+}

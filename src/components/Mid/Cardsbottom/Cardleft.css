@@ -1,0 +1,109 @@
+.cardleft{
+    height: 200px;
+    background-color: #191c24;
+    width: 500px;
+    border-radius: 10px;
+    margin-right: 40px;
+    border: 1px solid wheat;
+}
+
+.cardhead{
+    display: flex;
+    flex-direction: row;
+}
+
+.head{
+    margin: 10px 40px;
+    color: white;
+    font-size: small;
+}
+
+.textright{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.textright h6{
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+
+.icon{
+    margin-top: 10px;
+    margin-left: 40px;
+    color: yellowgreen;
+}
+
+.forty{
+    color:yellowgreen;
+}
+
+.four{
+    color: white;
+}
+
+.content{
+    background-color: #191c24;
+    height: 100px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.contentdiv{
+    background-color: #191c24;
+    height: 100px;
+    width: 100px;
+    border-radius: 4px;
+}
+
+.contentdiv h3{
+    margin: auto;
+    margin-left: 30px;
+    color: white;
+}
+
+.contentdiv h4 {
+    color: white;
+    font-size: x-small;
+    text-align: center;
+}
+
+
+.arrowper{
+    display: flex;
+    flex-direction: row;
+    font-size: xx-small;
+    margin-left: 25px;
+    color: blue;
+}
+
+.vl {
+    border-right: 1px solid wheat;
+    height: 90px;
+}
+
+.marg{
+    margin-left: 40px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    background-color: #191c24;
+    width: 97%;
+    margin-left: 10px;
+    height: 50px;
+}
+
+.buttons p{
+    font-size: x-small;
+}
+
+
+.btnleft{
+margin-left: 30px;
+margin-right: 25px;
+margin-top: 0px;
+}
